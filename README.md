@@ -1,6 +1,7 @@
 # Pydoctor-Plus
-[![GitHub license](https://img.shields.io/github/license/PhysCorp/Pydoctor-Plus)](
 ### A method of generating documentation using pydoctor and some bash magic for Python projects that are not object-oriented.
+
+[GitHub license](https://img.shields.io/github/license/PhysCorp/Pydoctor-Plus)
 
 ## Notes
 Tested and working on Fedora 37
