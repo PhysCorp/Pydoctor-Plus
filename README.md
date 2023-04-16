@@ -1,14 +1,14 @@
 # Pydoctor-Plus
-### A method of generating documentation using pydoctor and some bash magic for Python projects that are not object-oriented.
+### A method of generating documentation on Linux using pydoctor and some bash magic for Python projects that are not object-oriented.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Notes
-Tested and working on Fedora 37
-
 ## Requirements
-- [x] Python 3 (Preferably 3.10)
-- [x] python3-pip
+- [ ] Python 3 (Preferably 3.10)
+- [ ] python3-pip
+- [ ] pydoctor
+- [ ] Task Runner Extension for VSCode
+- [ ] Linux (Tested on Fedora 37)
 
 ## Installation and Setup
 1. Download this project with `git clone https://github.com/PhysCorp/Pydoctor-Plus.git`
