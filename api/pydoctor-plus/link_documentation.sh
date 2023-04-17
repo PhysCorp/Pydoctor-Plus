@@ -52,7 +52,7 @@ do
     if [ "$file_name" = "index.html" ]; then
         # Add the link to the HTML content
         html_content+="      <li class='list-group-item'><a href='$relative_path'>$temp_path</a></li>"
-        echo "Preparing HTML content: $file_name\r"
+        # echo "Preparing HTML content: $file_name\r"
     fi
 done
 
